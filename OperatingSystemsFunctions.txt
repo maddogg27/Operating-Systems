@@ -1,2 +1,3 @@
 Starting and shutting down computers and mobile devices is a function of an operating system. You can physically push a button to turn a device on or off, sending an electrical current. Restarting a device is also known as rebooting.
 Establishing an internet connection is a function of an operating system. You can establish wired connection, Wi-fi, mobile broad-band and satellite. Sometimes you will connect automatically and other times you will need to connect your device manually.
+Monitoring performance is a function of an operating system. You can use performance monitoring to diagnose why your device is running slowly. Used to monitor memory usage, network, drives and the processor.
