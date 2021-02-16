@@ -1,0 +1,1 @@
+Starting and shutting down computers and mobile devices is a function of an operating system. You can physically push a button to turn a device on or off, sending an electrical current. Restarting a device is also known as rebooting.
